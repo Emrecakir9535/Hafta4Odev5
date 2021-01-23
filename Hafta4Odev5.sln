@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hafta4Odev5", "Hafta4Odev5\Hafta4Odev5.csproj", "{DD888CD0-4611-4539-82B9-216747ABC48D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD888CD0-4611-4539-82B9-216747ABC48D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD888CD0-4611-4539-82B9-216747ABC48D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD888CD0-4611-4539-82B9-216747ABC48D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD888CD0-4611-4539-82B9-216747ABC48D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4757A3F-2497-47C5-8242-75EE6DCBA7C2}
+	EndGlobalSection
+EndGlobal
